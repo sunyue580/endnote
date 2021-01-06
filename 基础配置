@@ -1,0 +1,4 @@
+1、一般先安装word,再安装endnote
+2、word里面没有endnote选项解决：
+(1) 运行endnote安装目录下的Configure EndNote.exe;分别勾选configure endnote components——cite while you write add-in for microsoft office
+(2) 打开word——文件——选项——加载项——转到(COM加载项)——endnote cite while you write——确定
